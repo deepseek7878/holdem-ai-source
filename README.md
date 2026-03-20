@@ -1,5 +1,5 @@
 # Texas-Hold-em-AI-Source-Code 德州AI源码，德州ai辅助软件，最强ai源码
-研发多年的德州扑克AI，支持1对多，包括1对9，对于gg，wpk，hhpoker，AApoke等平台的玩家都有明显效果，出德州ai源码和辅助软件；TG：@fox_lovemyself，邮箱：lihongbo9414@gmail.com
+研发多年的德州扑克AI，最强德州扑克AI源码，德州AI源码，AI辅助软件，支持1对多，包括1对9，对于gg，wpk，hhpoker，AApoke等平台的玩家都有明显效果，出德州ai源码和辅助软件；TG：@fox_lovemyself，邮箱：lihongbo9414@gmail.com
 
 
 <img width="235" height="324" alt="微信图片_20250713160546" src="https://github.com/user-attachments/assets/5e929684-9ccc-4149-8920-2ed421f9d528" />
