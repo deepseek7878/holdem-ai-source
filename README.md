@@ -50,9 +50,7 @@ Rule Bot: 胜率48%
 
 Random: 胜率12%
 
-text
 
-![Bot Performance](https://via.placeholder.com/900x400/4A90E2/FFFFFF?text=AI+Bot+Rankings+%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%92%E5%90%8D)
 
 ## 🧠 算法详解 / Algorithm Details / 演算法詳解
 
@@ -73,21 +71,21 @@ simulate_remaining_board()
 evaluate_equity()
 return average_equity
 
-text
+
 **适用：** 中期决策胜率计算
 
 ### **3. CFR (Counterfactual Regret Minimization)**
 regret_sum += counterfactual_regret
 strategy = regret_matching(regret_sum)
 
-text
+
 **适用：** 接近纳什均衡
 
 ### **4. Minimax with Alpha-Beta**
 max_value = max(minimax(child, depth-1, False))
 min_value = min(minimax(child, depth-1, True))
 
-text
+
 **适用：** 小牌桌精确搜索
 
 ## 🏗️ 项目结构 / Structure / 結構
